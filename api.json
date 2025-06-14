@@ -1,7 +1,7 @@
 {
   "title": "Hunian Premium Kelas 1",
   "location": "Minggiran, Sendangtirto, Berbah, Sleman Regency, Special Region of Yogyakarta 55573",
-  "banner_image": "assets/images/hunian_banner.png",
+  "banner_image": "assets/images/banner_hunian.png",
   "facilities": [
     "Keamanan 24 Jam",
     "CCTV & One Gate System",
@@ -12,6 +12,7 @@
     "Tempat Ibadah"
   ],
   "siteplan_images": [
+    "assets/images/banner_hunian.png",
     "assets/images/banner_hunian.png",
     "assets/images/banner_hunian.png"
   ],
