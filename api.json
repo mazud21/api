@@ -1,0 +1,47 @@
+{
+  "title": "Hunian Premium Kelas 1",
+  "location": "Minggiran, Sendangtirto, Berbah, Sleman Regency, Special Region of Yogyakarta 55573",
+  "banner_image": "assets/images/hunian_banner.png",
+  "facilities": [
+    "Keamanan 24 Jam",
+    "CCTV & One Gate System",
+    "Kolam Renang Pribadi",
+    "Club House / Community Center",
+    "Taman Bermain Anak",
+    "Taman Hijau & Jogging Track",
+    "Tempat Ibadah"
+  ],
+  "siteplan_images": [
+    "assets/images/siteplan_1.png",
+    "assets/images/siteplan_2.png"
+  ],
+  "house_types": [
+    {
+      "name": "Bronze 21/24",
+      "price": "Rp 200 Jt",
+      "images": [
+        "assets/images/bronze1.png",
+        "assets/images/bronze2.png",
+        "assets/images/bronze3.png"
+      ]
+    },
+    {
+      "name": "Silver 36",
+      "price": "Rp 300 Jt",
+      "images": [
+        "assets/images/silver1.png",
+        "assets/images/silver2.png",
+        "assets/images/silver3.png"
+      ]
+    },
+    {
+      "name": "Gold 45",
+      "price": "Rp 400 Jt",
+      "images": [
+        "assets/images/gold1.png",
+        "assets/images/gold2.png",
+        "assets/images/gold3.png"
+      ]
+    }
+  ]
+}
